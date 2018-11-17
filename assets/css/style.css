@@ -1,0 +1,18 @@
+body {
+    background-image: url("https://cdn.pixabay.com/photo/2018/07/26/20/53/background-3564538_1280.jpg");
+     }
+header, div{
+    font-weight: bold;
+    text-align: center;
+    align-self: center;
+    background: lightyellow;
+    color: purple;
+    font-size: 30px;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+div.container {
+    margin-left: auto;
+    margin-right: auto;
+}
