@@ -2,7 +2,7 @@ body {
     background-image: url("https://visme.co/blog/wp-content/uploads/2017/07/50-Beautiful-and-Minimalist-Presentation-Backgrounds-040.jpg");
      }
 header, div{
-    font-weight: bold;
+    font-weight: bolder;
     text-align: center;
     align-self: center;
     background: lightyellow;
